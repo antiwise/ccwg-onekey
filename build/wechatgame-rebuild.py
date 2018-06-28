@@ -1,6 +1,6 @@
 import json
 
-ftp_server = 'https://h5.qiqugame.cn:30013'
+ftp_server = '你自己的ftp服务器地址'
 
 lines = []
 # 读取game.js
